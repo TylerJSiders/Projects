@@ -1,0 +1,18 @@
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\bin\Debug\netcoreapp3.1\MathT.deps.json
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\bin\Debug\netcoreapp3.1\MathT.dll
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\bin\Debug\netcoreapp3.1\MathT.pdb
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\obj\Debug\netcoreapp3.1\MathT.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\obj\Debug\netcoreapp3.1\MathT.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\obj\Debug\netcoreapp3.1\MathT.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\obj\Debug\netcoreapp3.1\MathT.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\obj\Debug\netcoreapp3.1\MathT.dll
+C:\Users\Tyler\Desktop\MSSA Course\220\Lab\Lab3D\MathT\obj\Debug\netcoreapp3.1\MathT.pdb
+C:\Users\Tyler\Desktop\Math-App\MathT\bin\Debug\netcoreapp3.1\MathT.deps.json
+C:\Users\Tyler\Desktop\Math-App\MathT\bin\Debug\netcoreapp3.1\MathT.dll
+C:\Users\Tyler\Desktop\Math-App\MathT\bin\Debug\netcoreapp3.1\MathT.pdb
+C:\Users\Tyler\Desktop\Math-App\MathT\obj\Debug\netcoreapp3.1\MathT.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Math-App\MathT\obj\Debug\netcoreapp3.1\MathT.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Math-App\MathT\obj\Debug\netcoreapp3.1\MathT.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Math-App\MathT\obj\Debug\netcoreapp3.1\MathT.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Math-App\MathT\obj\Debug\netcoreapp3.1\MathT.dll
+C:\Users\Tyler\Desktop\Math-App\MathT\obj\Debug\netcoreapp3.1\MathT.pdb

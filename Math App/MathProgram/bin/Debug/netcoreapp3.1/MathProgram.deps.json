@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathProgram/1.0.0": {
+        "dependencies": {
+          "MathT": "1.0.0"
+        },
+        "runtime": {
+          "MathProgram.dll": {}
+        }
+      },
+      "MathT/1.0.0": {
+        "runtime": {
+          "MathT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
