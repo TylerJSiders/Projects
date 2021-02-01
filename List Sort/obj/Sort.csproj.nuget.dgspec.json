@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler\\Desktop\\Sort\\Sort.csproj": {}
+    "C:\\Users\\Tyler\\Documents\\Project Repository\\List Sort\\Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler\\Desktop\\Sort\\Sort.csproj": {
+    "C:\\Users\\Tyler\\Documents\\Project Repository\\List Sort\\Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\Desktop\\Sort\\Sort.csproj",
+        "projectUniqueName": "C:\\Users\\Tyler\\Documents\\Project Repository\\List Sort\\Sort.csproj",
         "projectName": "Sort",
-        "projectPath": "C:\\Users\\Tyler\\Desktop\\Sort\\Sort.csproj",
+        "projectPath": "C:\\Users\\Tyler\\Documents\\Project Repository\\List Sort\\Sort.csproj",
         "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\Desktop\\Sort\\obj\\",
+        "outputPath": "C:\\Users\\Tyler\\Documents\\Project Repository\\List Sort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

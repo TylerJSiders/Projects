@@ -7,22 +7,39 @@ namespace Sort
     {
         static void Main(string[] args)
         {
-
+            bool acceptingNumbers = true;
             List<int> numbers = new List<int>();
-            
-            numbers.Add(1);
-            numbers.Add(12);
-            numbers.Add(4);
-            numbers.Add(3);
-            numbers.Add(7);
-            numbers.Add(0);
-            sortList(numbers);
-            sortList(numbers);
-            foreach (int number in numbers)
+            Console.WriteLine("Please insert a random list of numbers. Type \"Done\" when finished.");
+
+            while (acceptingNumbers)
             {
-                Console.WriteLine(number);
-                
+                acceptingNumbers = NumberInput(acceptingNumbers, numbers);
             }
+
+            sortList(numbers);
+            printList(numbers);
+        }
+
+        private static bool NumberInput(bool acceptingNumbers, List<int> numbers)
+        {
+            Console.Write("Please enter a number: ");
+            string input = Console.ReadLine();
+            int numInput;
+            if (Int32.TryParse(input, out numInput))
+            {
+                numbers.Add(numInput);
+            }
+            else
+            {
+                if (input == "Done" || input == "DONE" || input == "done")
+                {
+                    acceptingNumbers = false;
+                }
+                else
+                    Console.WriteLine("Your input has to be a number, or \"Done\".");
+            }
+
+            return acceptingNumbers;
         }
 
         static public List<int> sortList(List<int> numberList)
@@ -47,5 +64,26 @@ namespace Sort
             }
             return numberList;
         }
+
+        static public void printList(List<int> numberList)
+        {
+            foreach (int number in numberList)
+            {
+                Console.WriteLine(number);
+            }
+        }
     }
 }
+//if (Int32.TryParse(input, out numInput))
+//{
+//    numbers.Add(numInput);
+//}
+//else
+//{
+//    if (input == "Done" || input == "DONE" || input == "done")
+//    {
+//        acceptingNumbers = false;
+//    }
+//    else
+//        Console.WriteLine("Your input has to be a number, or \"Done\".");
+//}
