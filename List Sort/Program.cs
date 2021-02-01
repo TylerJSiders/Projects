@@ -44,24 +44,37 @@ namespace Sort
 
         static public List<int> sortList(List<int> numberList)
         {
+            DateTime startDateTime = new DateTime();
+            startDateTime = DateTime.Now;
             int number = numberList[0] ;
             for (int i = 0; i < numberList.Count; i++)
             {
-               if (number > numberList[i])
-               {
-                    int intermediate = numberList[i];
-                    numberList[i] = number;
-                    numberList[i - 1] = intermediate;
+                for (int j = i + 1; j < numberList.Count; j++)
+                {
+                    if (numberList[i] > numberList[j])
+                    {
+                        int temp = numberList[j];
+                        numberList[j] = numberList[i];
+                        numberList[i] = temp;
+                    }
+                }
+                //if (number > numberList[i])
+                //{
+                //    int intermediate = numberList[i];
+                //    numberList[i] = number;
+                //    numberList[i - 1] = intermediate;
 
-                    //These two statements restart the loop from the beginning 
-                    i = 0;
-                    number = numberList[0];
-               }
-               else
-               {
-                    number = numberList[i];
-               }
+                //    //These two statements restart the loop from the beginning 
+                //    i = 0;
+                //    number = numberList[0];
+                //}
+                //else
+                //{
+                //    number = numberList[i];
+                //}
             }
+            DateTime endDateTime = DateTime.Now;
+            Console.WriteLine($"Time Elapsed: {endDateTime - startDateTime}.");
             return numberList;
         }
 
