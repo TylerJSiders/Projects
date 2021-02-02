@@ -58,6 +58,8 @@ namespace Sort
                         numberList[i] = temp;
                     }
                 }
+
+
                 //if (number > numberList[i])
                 //{
                 //    int intermediate = numberList[i];
