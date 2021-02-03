@@ -1,4 +1,5 @@
 using System;
+using System.Threading;
 using System.IO;
 using System.Collections.Generic;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Text;
 namespace TaskTrackingApp
 {
     public class StartMenu
-        {
+    {
         public void MainMenu()
             {
             Console.WriteLine("1.) View Task List");
@@ -15,6 +16,7 @@ namespace TaskTrackingApp
             Console.WriteLine("Enter the number for the option you want to go to:   ");
 
             Tasks task = new Tasks();
+            task.CreateFolderLocation();
 
             int opt;
             while (!int.TryParse(Console.ReadLine(), out opt))
@@ -42,7 +44,6 @@ namespace TaskTrackingApp
             }         
             
         }          
-
         public void Greeting()
         {
             if (DateTime.Now.Hour < 12)
@@ -56,6 +57,8 @@ namespace TaskTrackingApp
         {
             Console.WriteLine("Exiting program...");
             Console.WriteLine("Thanks for stopping by!");
+            Thread.Sleep(1000);
+            Environment.Exit(0);
         }
     } 
 }

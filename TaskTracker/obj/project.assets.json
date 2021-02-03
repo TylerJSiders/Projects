@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Nikki\\.nuget\\packages\\": {},
+    "C:\\Users\\Tyler\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikki\\Documents\\MSSA\\Labs\\C#\\Lab3E\\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj",
-      "projectName": "LAB 3E - C- Task Tracking Application Team Project Part 1 of 2",
-      "projectPath": "C:\\Users\\Nikki\\Documents\\MSSA\\Labs\\C#\\Lab3E\\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj",
-      "packagesPath": "C:\\Users\\Nikki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikki\\Documents\\MSSA\\Labs\\C#\\Lab3E\\obj\\",
+      "projectUniqueName": "C:\\Users\\Tyler\\Desktop\\Kim Repository\\TaskTracker\\TaskTracker.csproj",
+      "projectName": "TaskTracker",
+      "projectPath": "C:\\Users\\Tyler\\Desktop\\Kim Repository\\TaskTracker\\TaskTracker.csproj",
+      "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tyler\\Desktop\\Kim Repository\\TaskTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nikki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

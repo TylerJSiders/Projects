@@ -29,11 +29,12 @@ namespace TaskTrackingApp
                 Console.WriteLine("File Created with File Name:" + fileName+ "\n");
             }
             Console.Clear();
-            ViewTaskList();
+            StartMenu start = new StartMenu();
+            start.MainMenu();
         }
         public static void Prints()
         {
-            Console.WriteLine("\t\t\tAdd Tasks To List\n\n");
+            Console.WriteLine("Creating A New Task\n");
             Console.WriteLine("Enter the name of the task you would like add:");
         }
         public static string GetTaskName()
@@ -59,6 +60,7 @@ namespace TaskTrackingApp
         public void ViewTaskList()
         {
             Console.Clear();
+
             string root = @"C:\Temp";
             string[] fileEntries = Directory.GetFiles(root);
             string[] taskNames = new string[fileEntries.Count()];
@@ -69,8 +71,8 @@ namespace TaskTrackingApp
                 StartMenu start = new StartMenu();
                 start.MainMenu();
             }
-               
-            for(int i = 1; i < fileEntries.Count() + 1; i++)
+
+            for (int i = 1; i < fileEntries.Count() + 1; i++)
             {
                 string taskName = fileEntries[i - 1].Substring(root.Length + 1);
                 taskName = taskName.Substring(0, taskName.IndexOf('.'));
@@ -83,10 +85,8 @@ namespace TaskTrackingApp
         {
             string root = @"C:\Temp\";
             Console.WriteLine("Enter the name of the task you wish to see or 'Return' to go back to the main menu: ");
-            string input = Console.ReadLine();           
+            string input = Console.ReadLine();   
             
-           
-
             for (int i = 0; i < taskNames.Length; i++)
             {
                 if (input.ToLower() == taskNames[i].ToLower())
@@ -99,8 +99,7 @@ namespace TaskTrackingApp
                         {
                             Console.WriteLine(line);
                         }
-                    }
-                   
+                    }                   
                     DeleteTask(taskNames, root, i);
                 }
             }
@@ -126,7 +125,7 @@ namespace TaskTrackingApp
             }
             else if (remove == "n" || remove == "no")
                 ViewTaskList();
-            else
+            else            
                 DeleteTask(taskNames, root, i);
         }
     }
