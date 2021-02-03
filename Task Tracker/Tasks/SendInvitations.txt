@@ -1,0 +1,12 @@
+Create an email with this information:
+
+To: retherfk@my.erau.edu, mateusz_hartford1@outlook.com, tyler.siders@outlook.com
+Subject: Andre's Birthday Party
+Body:
+	You are invited to attend Andre Gomez's Birthday Party!
+	When: April 5th, 2021
+	Where: 1030 Henderson Dr, Jacksonville, NC 28540
+	Why: To Celebrate!
+	
+	Please RSVP! Hope to see you there!
+

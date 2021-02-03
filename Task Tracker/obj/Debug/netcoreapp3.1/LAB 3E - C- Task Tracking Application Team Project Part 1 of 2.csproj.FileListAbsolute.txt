@@ -1,0 +1,52 @@
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.exe
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.deps.json
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.json
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.dev.json
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csprojAssemblyReference.cache
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfoInputs.cache
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfo.cs
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Mateu\source\repos\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.genruntimeconfig.cache
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.exe
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.deps.json
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.json
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Tyler\Desktop\Group Project\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.genruntimeconfig.cache
+C:\Users\Tyler\Desktop\Group Project\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.exe
+C:\Users\Tyler\Desktop\Group Project\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.deps.json
+C:\Users\Tyler\Desktop\Group Project\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.json
+C:\Users\Tyler\Desktop\Group Project\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\Group Project\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Tyler\Desktop\Group Project\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Tyler\Desktop\Group Project\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Group Project\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Group Project\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Group Project\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Group Project\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Tyler\Desktop\Group Project\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Tyler\Desktop\Group Project\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.genruntimeconfig.cache
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.exe
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.deps.json
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.json
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.runtimeconfig.dev.json
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\bin\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csprojAssemblyReference.cache
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfoInputs.cache
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.AssemblyInfo.cs
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj.CoreCompileInputs.cache
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.dll
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.pdb
+C:\Users\Nikki\Documents\MSSA\Labs\C#\Lab3E\obj\Debug\netcoreapp3.1\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.genruntimeconfig.cache

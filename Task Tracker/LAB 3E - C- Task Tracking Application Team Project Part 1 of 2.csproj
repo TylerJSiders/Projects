@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>LAB_3E___C__Task_Tracking_Application_Team_Project_Part_1_of_2</RootNamespace>
+  </PropertyGroup>
+
+</Project>
