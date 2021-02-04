@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\Desktop\\Math-App\\Lab3D\\Lab3D.csproj",
+      "projectUniqueName": "C:\\Users\\Tyler\\Documents\\Project Repository\\Math App\\Lab3D\\Lab3D.csproj",
       "projectName": "Lab3D",
-      "projectPath": "C:\\Users\\Tyler\\Desktop\\Math-App\\Lab3D\\Lab3D.csproj",
+      "projectPath": "C:\\Users\\Tyler\\Documents\\Project Repository\\Math App\\Lab3D\\Lab3D.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\Desktop\\Math-App\\Lab3D\\obj\\",
+      "outputPath": "C:\\Users\\Tyler\\Documents\\Project Repository\\Math App\\Lab3D\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -76,8 +76,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Tyler\\Desktop\\Math-App\\MathProgram\\MathProgram.csproj": {
-              "projectPath": "C:\\Users\\Tyler\\Desktop\\Math-App\\MathProgram\\MathProgram.csproj"
+            "C:\\Users\\Tyler\\Documents\\Project Repository\\Math App\\MathProgram\\MathProgram.csproj": {
+              "projectPath": "C:\\Users\\Tyler\\Documents\\Project Repository\\Math App\\MathProgram\\MathProgram.csproj"
             }
           }
         }
@@ -106,7 +106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

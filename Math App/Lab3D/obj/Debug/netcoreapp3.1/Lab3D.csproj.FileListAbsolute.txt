@@ -34,3 +34,21 @@ C:\Users\Tyler\Desktop\Math-App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.csproj.CopyC
 C:\Users\Tyler\Desktop\Math-App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.dll
 C:\Users\Tyler\Desktop\Math-App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.pdb
 C:\Users\Tyler\Desktop\Math-App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.genruntimeconfig.cache
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\Lab3D.exe
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\Lab3D.deps.json
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\Lab3D.runtimeconfig.json
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\Lab3D.runtimeconfig.dev.json
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\Lab3D.dll
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\Lab3D.pdb
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\MathProgram.dll
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\MathT.dll
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\MathProgram.pdb
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\bin\Debug\netcoreapp3.1\MathT.pdb
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.csprojAssemblyReference.cache
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.AssemblyInfoInputs.cache
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.AssemblyInfo.cs
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.csproj.CopyComplete
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.dll
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.pdb
+C:\Users\Tyler\Documents\Project Repository\Math App\Lab3D\obj\Debug\netcoreapp3.1\Lab3D.genruntimeconfig.cache

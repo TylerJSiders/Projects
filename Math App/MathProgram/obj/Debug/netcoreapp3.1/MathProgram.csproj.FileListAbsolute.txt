@@ -22,3 +22,15 @@ C:\Users\Tyler\Desktop\Math-App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.
 C:\Users\Tyler\Desktop\Math-App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.csproj.CopyComplete
 C:\Users\Tyler\Desktop\Math-App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.dll
 C:\Users\Tyler\Desktop\Math-App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.pdb
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\bin\Debug\netcoreapp3.1\MathProgram.deps.json
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\bin\Debug\netcoreapp3.1\MathProgram.dll
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\bin\Debug\netcoreapp3.1\MathProgram.pdb
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\bin\Debug\netcoreapp3.1\MathT.dll
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\bin\Debug\netcoreapp3.1\MathT.pdb
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.csprojAssemblyReference.cache
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.AssemblyInfoInputs.cache
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.AssemblyInfo.cs
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.csproj.CopyComplete
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.dll
+C:\Users\Tyler\Documents\Project Repository\Math App\MathProgram\obj\Debug\netcoreapp3.1\MathProgram.pdb
