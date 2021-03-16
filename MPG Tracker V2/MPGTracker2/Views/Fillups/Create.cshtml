@@ -1,0 +1,56 @@
+﻿    @model MPGTracker2.Models.AddFIllupVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Fillup</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div>
+                <p>Owner: @Model.OwnerName</p>
+                <p>Vehicle: @Model.VehicleYear.Year @Model.VehicleMake @Model.VehicleModel</p>
+            </div>
+            <div class="form-group" hidden="hidden">
+                <label asp-for="VehicleID" class="control-label">Vehicle ID: </label>
+                <input asp-for="VehicleID" class="form-control" value="@Model.VehicleID" contenteditable="false"/>
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DateFilled" class="control-label"></label>
+                <input asp-for="DateFilled" class="form-control" />
+                <span asp-validation-for="DateFilled" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateEmpty" class="control-label"></label>
+                <input asp-for="DateEmpty" class="form-control" />
+                <span asp-validation-for="DateEmpty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GallonsFilled" class="control-label"></label>
+                <input asp-for="GallonsFilled" class="form-control" />
+                <span asp-validation-for="GallonsFilled" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MilesDriven" class="control-label"></label>
+                <input asp-for="MilesDriven" class="form-control" />
+                <span asp-validation-for="MilesDriven" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Vehicles" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MPGTracker2.Models.VehicleIndexVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OwnerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VehicleMake)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VehicleYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VehicleModel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OwnerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleMake)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleModel)
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.VehicleID">Delete</a> |
+                <a asp-action="Create" asp-controller="Fillups" 
+                   asp-route-vehicleID="@item.VehicleID"
+                   asp-route-ownerName="@item.OwnerName"
+                   asp-route-vehicleYear="@item.VehicleYear"
+                   asp-route-vehicleMake="@item.VehicleMake"
+                   asp-route-vehicleModel="@item.VehicleModel"
+                   >Add Fillup</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

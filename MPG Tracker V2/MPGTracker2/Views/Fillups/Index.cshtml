@@ -1,0 +1,101 @@
+﻿@model IEnumerable<MPGTracker2.Models.FillupsWithVehiclesAndOwners>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Fillups</h1>
+
+<form asp-controller="Fillups" asp-action="Index">
+    <div class="form-actions no-color">
+        <p>
+            Owner:
+            <select name="OwnerFilter" asp-items="(new SelectList(ViewBag.Owners))">
+                <option>All</option>
+            </select>
+            Make:
+            <select name="MakeFilter" asp-items="(new SelectList(ViewBag.Makes))">
+                <option>All</option>
+            </select>
+            Model:
+            <select name="ModelFilter" asp-items="(new SelectList(ViewBag.Models))">
+                <option>All</option>
+            </select>
+            Date Filled
+            <input type ="date" name="DateFilledFilter" />
+            Date Empty
+            <input type="date" name="DateEmptyFilter" />
+            <input type="submit" value="Search" class="btn btn-primary" /> |
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Owner 
+            </th>
+            <th>
+                Year
+            </th>
+            <th>
+                Make
+            </th>
+            <th>
+                Model
+            </th>
+            <th>
+                Date Filled
+            </th>
+            <th>
+                Date Empty
+            </th>
+            <th>
+                Gallons FIlled
+            </th>
+            <th>
+                Miles Driven
+            </th>
+            <th>
+                MPG
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.OwnerName)
+            </td>                         
+            <td>                         
+                @Html.DisplayFor(model => item.VehicleYear.Year)
+            </td>                      
+            <td>                        
+                @Html.DisplayFor(model => item.VehicleMake)
+            </td>                      
+            <td>                      
+                @Html.DisplayFor(model => item.VehicleModel)
+            </td>                     
+            <td>                       
+                @Html.DisplayFor(model => item.DateFilled.Date.Date)
+            </td>                         
+            <td>                        
+                @Html.DisplayFor(model => item.DateEmpty.Date)
+            </td>                        
+            <td>                        
+                @Html.DisplayFor(model => item.GallonsFilled)
+            </td>                      
+            <td>                       
+                @Html.DisplayFor(model => item.MilesDriven)
+            </td>                     
+            <td>                       
+                @Html.DisplayFor(model => item.MPG)
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.FillupsID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>@ViewBag.AverageMPG</p>
